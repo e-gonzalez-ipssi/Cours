@@ -1,6 +1,6 @@
 # Cours
 
-Bonjour, je m'appelle Yoann.G, j'ai 22an
+Bonjour, je m'appelle Yoann.G, j'ai 22ans
 
 hicham est la les gars :)
 
