@@ -1,6 +1,5 @@
 # Cours
 
-Ligne de Yoann
 Bonjour, je m'appelle Yoann.G, j'ai 22an
 
 hicham est la les gars :)
