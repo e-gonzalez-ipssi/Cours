@@ -1,9 +1,9 @@
 # Cours
 
 Ligne de Yoann
-Bonjour, je m'appelle Yoann.G, j'ai 22ans
+Bonjour, je m'appelle Yoann.G, j'ai 22an
 
-Ligne de Hicham
+hicham est la les gars :)
 
 Esteban Gonzalez est bien passé par la.
 
