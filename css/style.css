@@ -4,7 +4,7 @@ body {
 
 header {
     background-image: url("../imagechat/chaton.jpg");
-    color: rgb(40, 100, 228);
+    color: white;
 }
 
 iframe {
