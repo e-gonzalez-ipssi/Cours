@@ -1,5 +1,13 @@
-header
-{
-    background-image: url("chaton.jpg");
+body {
+    background-color: cornsilk;
+}
+
+header {
+    background-image: url("../imagechat/chaton.jpg");
     color: white;
+}
+
+iframe {
+    padding: 25px;
+    background-color: darkgoldenrod;
 }
