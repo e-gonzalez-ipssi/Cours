@@ -1,15 +1,10 @@
-header
-{
-    background-image: url("chaton.jpg");
-    color: white;
-}
-
 body {
     background-color: cornsilk;
 }
 
-p {
-    color: #be24c3;
+header {
+    background-image: url("../imagechat/chaton.jpg");
+    color: rgb(40, 100, 228);
 }
 
 iframe {
